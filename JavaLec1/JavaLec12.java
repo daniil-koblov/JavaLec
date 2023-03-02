@@ -16,3 +16,4 @@ public class JavaLec12 {
         System.out.println(d);
     }
 }
+
